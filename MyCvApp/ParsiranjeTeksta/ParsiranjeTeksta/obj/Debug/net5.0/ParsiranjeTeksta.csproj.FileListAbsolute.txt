@@ -1,0 +1,16 @@
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.exe
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.deps.json
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.runtimeconfig.json
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.runtimeconfig.dev.json
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.dll
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ref\ParsiranjeTeksta.dll
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\bin\Debug\net5.0\ParsiranjeTeksta.pdb
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.csproj.AssemblyReference.cache
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.AssemblyInfoInputs.cache
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.AssemblyInfo.cs
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.csproj.CoreCompileInputs.cache
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.dll
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ref\ParsiranjeTeksta.dll
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.pdb
+C:\csharp- apps\MyCvApp\ParsiranjeTeksta\ParsiranjeTeksta\obj\Debug\net5.0\ParsiranjeTeksta.genruntimeconfig.cache
